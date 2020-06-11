@@ -1,24 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  8 15:06:33 2020
-
-@author: Asus
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  8 11:58:49 2020
-
-@author: Asus
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  5 21:10:19 2019
-
-@author: Asus
-"""
-
 import numpy as np
 import cv2
 import math
